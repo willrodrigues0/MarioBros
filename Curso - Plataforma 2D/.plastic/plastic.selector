@@ -1,0 +1,4 @@
+repository "Curso - Plataforma 2D/Curso - Plataforma 2D@4673835961357@cloud"
+  path "/"
+    br "/main"
+    co "/main"
